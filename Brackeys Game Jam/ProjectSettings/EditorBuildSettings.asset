@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 8eabe91e30011334ea454e863e279432
+  - enabled: 1
+    path: Assets/Scenes/Fire.unity
+    guid: ff3b811d700da8a4494bbc6d9f2c2058
+  - enabled: 1
+    path: Assets/Scenes/Water.unity
+    guid: 49dd9bd9cd73c6d4db969df2e5382bc7
+  - enabled: 1
+    path: Assets/Scenes/Electric.unity
+    guid: d37f154e701db0f4788353bdb1388617
+  - enabled: 1
+    path: Assets/Scenes/Boss.unity
+    guid: 4fe9144841720d849bf35b528c031fd5
+  - enabled: 1
+    path: Assets/Scenes/WinScreen.unity
+    guid: 1b6ed375c92ccd446b556dc0b7b131d8
+  m_configObjects: {}
